@@ -1,6 +1,6 @@
-##One of the most impactful use cases of AI agents is 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗮𝗻𝗱 𝘀𝘂𝗺𝗺𝗮𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻. Imagine having a research assistant that not only understands your topic but actively helps you uncover, summarize, and structure insights from the vast web of knowledge.
+#A research assistant which helps to summarize and strucutre insights.
 
-###Here’s the flow:
+Here’s the flow:
 - 1️⃣ Get a research topic from the user.
 - 2️⃣ Dynamically generate new search queries and perform web searches.
 - 3️⃣ Extract and summarize relevant information from each result.
